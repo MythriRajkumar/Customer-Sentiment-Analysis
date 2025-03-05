@@ -23,28 +23,21 @@ This application provides sentiment analysis capabilities for text data. The das
 
 1. Navigate to the backend directory:
 cd SENTIMENT_ANALYSIS/backend
-Copy
 2. Install dependencies:
 npm install
-Copy
 3. Create a `.env` file with the following variables:
 PORT=5000
 NEWS_API_KEY=your_api_key_here
-Copy
 4. Start the server:
 npm start
-Copy
 ### Frontend Setup
 
 1. Navigate to the frontend directory:
 cd SENTIMENT_ANALYSIS/frontend
-Copy
 2. Install dependencies:
 npm install
-Copy
 3. Start the development server:
 npm start
-Copy
 ## Usage
 
 1. Open your browser and navigate to `http://localhost:3000`
@@ -62,7 +55,6 @@ Copy
 
 Run tests with:
 npm test
-Copy
 ## License
 
 MIT
